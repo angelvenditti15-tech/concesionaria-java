@@ -1,5 +1,5 @@
 # IFES - Análisis de Sistemas - Programación 1
-## TP Grupal - Sistema de Concesionaria
+## Sistema de Concesionaria
 
 ### Integrantes:
 * **Angel Venditti**
