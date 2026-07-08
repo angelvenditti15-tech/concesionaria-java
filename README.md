@@ -30,11 +30,8 @@ Sistema de gestión de una concesionaria de vehículos desarrollado en Java. Per
 ## Instrucciones de Ejecución
 *(Ejecutar desde la raíz del proyecto en la terminal)*
 
-javac -d bin modelo/*.java interfaces/*.java excepciones/*.java repositorio/*.java convecionaria/*.java Main.java
-
-java -cp bin Main
-
-
 1. **Crear carpeta bin si no existe:**
    ```bash
    mkdir bin
+javac -d bin modelo/*.java interfaces/*.java excepciones/*.java repositorio/*.java concesionaria/*.java Main.java
+java -cp bin Main
